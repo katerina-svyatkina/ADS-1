@@ -43,6 +43,6 @@ for (int i = 2; i < hbound; i++) {
     if (checkPrime(i)) {
   sum = sum + i;
     }
- }
+  }
 return sum;
 }
